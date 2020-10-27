@@ -7,6 +7,6 @@
 
 ### Let's connect!
 <p>
-    <a href="http://nazirbahrululum.com" target="blank"><img src="https://img.shields.io/badge/Website-https://nazirbahrululum.com-green?" /></a>
+    <a href="http://nazirbahrululum.com" target="blank"><img src="https://img.shields.io/badge/Website-http://nazirbahrululum.com-green?" /></a>
 </p>
 
