@@ -8,7 +8,7 @@
 ### Let's connect!
 <p>
     <a href="https://nazirbahrululum.com" target="blank"><img src="https://img.shields.io/badge/Website-https://nazirbahrululum.com-green?" /></a>
-    <a href="https://www.linkedin.com/in/nazir-bahrul-ulum-015a83187/" target="blank"><img src="https://img.shields.io/badge/Nazir-Bahrul-Ulum-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/nazir-bahrul-ulum-015a83187/" target="blank"><img src="https://img.shields.io/badge/nazir-bahrul-ulum-015a83187?style=flat&logo=linkedin" /></a>
     <a href="https://saweria.co/nazirbahrululum" target="blank"><img src="https://ionicabizau.github.io/badges/saweria.svg" /></a>
 </p>
 
