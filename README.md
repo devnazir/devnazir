@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nazir Bahrul Ulum
 
-- 🔭 I’m currently learning JavaScript Framework (Vue Js & React Js)
+- 🔭 I’m currently learning React JS
 - ⚡ Excited to create a Website
 - 😄 I'm natively speak Indonesian and still learn english.
 - 💕 I'm currently fall in love with JavaScript
