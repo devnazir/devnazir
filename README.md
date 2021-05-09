@@ -6,7 +6,7 @@
 - 💕 I'm currently fall in love with JavaScript
 - 📫 You can reach me at nazirbachrululum@gmail.com
 
-#### MY STACK
+#### TECH STACK
 - JavaScript
 - ReactJS
 - NodeJS
