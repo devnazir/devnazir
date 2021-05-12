@@ -1,12 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevnazir%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23CBCF44&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Hi there 👋, I'm Nazir Bahrul Ulum
-
-#### TECH STACK
-
 <p>
 <img src="https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.webp?cid=6c09b9521e77c45abcf87a20784138e32c6843d7ebe13ca9&rid=giphy.webp&ct=g" width="100%">
 </p>
+
+#### TECH STACK
 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
 ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
