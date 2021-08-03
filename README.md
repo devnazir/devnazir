@@ -16,5 +16,9 @@ I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new
 ![MongoDB](https://img.shields.io/badge/-MongoDB-purple)
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=vue)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=react&layout=compact&hide=html,css,scss,shell)
+![github stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
+
+<a href="https://github.com/devnazir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devnazir&layout=compact" />
+</a>
