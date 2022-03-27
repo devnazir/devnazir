@@ -15,6 +15,23 @@ I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-red)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-purple)
 
+#### WORKING HISTORY
+**March 2022 - Present**  
+🏢 PT SejutaCita Anak Muda Indonesia  
+❤ Frontend Web Developer (ReactJS/NextJS)  
+
+**Oct 2021 - March 2022**  
+🏢 Powerchap  
+❤ Freelance Frontend Web Developer
+
+**May 2021 - March 2022**  
+🏢 Potatos Studio  
+❤ Freelance Frontend Web Developer
+
+**May 2021 - Sep 2021**  
+🏢 Chicode Studio  
+❤ Frontend Web Developer (ReactJS)  
+
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=react&layout=compact&hide=html,css,scss,shell)
 ![github stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
