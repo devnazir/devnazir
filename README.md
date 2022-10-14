@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevnazir%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23CBCF44&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Hi there 👋
-I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new, like a framework or programming language. Currently, I'm learning TypeScript and Automation Testing. And I might be able to learn about Backend. So in the future, I  will become a Fullstack Developer.
+I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new, like a framework or programming language. Currently, I'm learning TypeScript and Automation Testing. 
 
 #### TECH STACK
 
@@ -31,6 +31,23 @@ I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new
 **May 2021 - Sep 2021**  
 🏢 Chicode Studio  
 ❤ Frontend Web Developer (ReactJS)  
+
+#### PROJECTS
+
+| Web        | Backend           |
+| ------------- |:-------------:| 
+| [Social Media Dashboard](https://social-media-sage.vercel.app/dashboard)     |  |
+| [Cosmetic Landing Page](https://febelvn.vercel.app/)      |  |
+| [NGO Landing Page](https://ngo-roan.vercel.app/) |  |
+| [Sage Landing Page](https://devnazir.github.io/sage/) |  |
+| [Movie Trailer](https://devnazir.github.io/movietrailer/) |  |
+| [Mainan Landing Page](https://devnazir.github.io/mainan/) |  |
+| [Kelas.io Landing Page](https://devnazir.github.io/kelas-io/) |  |
+| [Hitung Hari](https://devnazir.github.io/seeday/) |  |
+
+
+
+
 
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=react&layout=compact&hide=html,css,scss,shell)
