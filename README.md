@@ -37,6 +37,8 @@ I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new
 | Web        | Backend           |
 | ------------- |:-------------:| 
 | [Social Media Dashboard](https://social-media-sage.vercel.app/dashboard)     |  |
+| [Infinity Bot Dashboard](https://chatbot-devnazir.vercel.app/dashboard)     |  |
+| [Infinity Bot Landing Page](https://chatbot-devnazir.vercel.app/)     |  |
 | [Cosmetic Landing Page](https://febelvn.vercel.app/)      |  |
 | [NGO Landing Page](https://ngo-roan.vercel.app/) |  |
 | [Sage Landing Page](https://devnazir.github.io/sage/) |  |
