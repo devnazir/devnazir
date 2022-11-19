@@ -3,6 +3,8 @@
 # Hi there 👋
 I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new, like a framework or programming language. Currently, I'm learning TypeScript and Automation Testing. 
 
+Youtube: https://www.youtube.com/@devnazir
+
 #### TECH STACK
 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
