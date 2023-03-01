@@ -11,6 +11,7 @@ Youtube: https://www.youtube.com/@devnazir
 ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
 ![SCSS](https://img.shields.io/badge/-SCSS-pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React.js](https://img.shields.io/badge/-React.js-lightgrey)
 ![Next.js](https://img.shields.io/badge/-Next.js-yellow)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
