@@ -19,21 +19,17 @@ Youtube: https://www.youtube.com/@devnazir
 ![MongoDB](https://img.shields.io/badge/-MongoDB-purple)
 
 #### WORKING HISTORY
-**March 2022 - Present**  
-🏢 PT SejutaCita Anak Muda Indonesia  
-❤ Frontend Web Developer (ReactJS/NextJS)  
+**Frontend Web Developer (ReactJS/NextJS)** - Dealls Jobs  
+<i>March 2022 - Present</i>
 
-**Oct 2021 - March 2022**  
-🏢 Powerchap  
-❤ Freelance Frontend Web Developer
+**Freelance Frontend Web Developer**  - Powerchap    
+<i>Oct 2021 - March 2022</i>  
 
-**May 2021 - March 2022**  
-🏢 Potatos Studio  
-❤ Freelance Frontend Web Developer
+**Freelance Frontend Web Developer**  - Potatos Studio  
+<i>May 2021 - March 2022</i>  
 
-**May 2021 - Sep 2021**  
-🏢 Chicode Studio  
-❤ Frontend Web Developer (ReactJS)  
+**Frontend Web Developer (ReactJS)** - Chicode Studio    
+<i>May 2021 - Sep 2021</i>   
 
 #### PROJECTS
 
