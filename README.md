@@ -54,6 +54,3 @@ Youtube: https://www.youtube.com/@devnazir
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=react&layout=compact&hide=html,css,scss,shell)
 ![github stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
 
-<a href="https://github.com/devnazir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devnazir&layout=compact" />
-</a>
