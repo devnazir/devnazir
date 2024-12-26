@@ -1,56 +1,66 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevnazir%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23CBCF44&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Hi there 👋
-I am Nazir Bahrul Ulum, a Frontend Web Engineer who eager to learn something new, like a framework or programming language. Currently, I'm learning TypeScript and Automation Testing. 
+# About Me
 
-Youtube: https://www.youtube.com/@devnazir
+👤 **Nazir Bahrul Ulum**  
+🎨 **Software Engineer (Frontend Web)**  
+🌍 Based in **Asia/Jakarta**  
+🔗 [Website](https://devnazir-web.vercel.app/)  🔗 [LinkedIn](https://www.linkedin.com/in/nazirbahrululum) 🔗 [Youtube](https://www.youtube.com/@devnazir)
 
-#### TECH STACK
+I am a passionate Software Engineer with over **3 years of experience** specializing in frontend technologies. I thrive on creating responsive web applications using **React, Next.js**, and **TypeScript**. My goal is to deliver intuitive user experiences while maintaining clean and maintainable code. Collaboration is at the heart of what I do, and I love working on impactful solutions that make a difference.
 
-![HTML](https://img.shields.io/badge/-HTML-brightgreen)
-![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
-![SCSS](https://img.shields.io/badge/-SCSS-pink)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![React.js](https://img.shields.io/badge/-React.js-lightgrey)
-![Next.js](https://img.shields.io/badge/-Next.js-yellow)
-![NodeJS](https://img.shields.io/badge/-NodeJS-green)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-red)
-![MongoDB](https://img.shields.io/badge/-MongoDB-purple)
+---
 
-#### WORKING HISTORY
-**Frontend Web Developer (ReactJS/NextJS)** - Dealls Jobs  
-<i>March 2022 - Present</i>
+# Tech Stack
 
-**Freelance Frontend Web Developer**  - Powerchap    
-<i>Oct 2021 - March 2022</i>  
+### 🛠️ My Tools of Choice
 
-**Freelance Frontend Web Developer**  - Potatos Studio  
-<i>May 2021 - March 2022</i>  
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React, Next.js, Node.js, Express.js
+- **Databases:** SQL, MySQL
+- **Other:** Go
 
-**Frontend Web Developer (ReactJS)** - Chicode Studio    
-<i>May 2021 - Sep 2021</i>   
+---
 
-#### PROJECTS
+# Projects
 
-| Web        | Backend           |
-| ------------- |:-------------:| 
-| [Social Media Dashboard](https://social-media-sage.vercel.app/dashboard)     | [API LK21](https://github.com/devnazir/api-lk21) |
-| [Infinity Bot Dashboard](https://chatbot-devnazir.vercel.app/dashboard)     | [API FILMAPIK](https://github.com/devnazir/api-filmapik) |
-| [Infinity Bot Landing Page](https://chatbot-devnazir.vercel.app/)     |  |
-| [Cosmetic Landing Page](https://febelvn.vercel.app/)      |  |
-| [NGO Landing Page](https://ngo-roan.vercel.app/) |  |
-| [Sage Landing Page](https://devnazir.github.io/sage/) |  |
-| [Movie Trailer](https://devnazir.github.io/movietrailer/) |  |
-| [Mainan Landing Page](https://devnazir.github.io/mainan/) |  |
-| [Kelas.io Landing Page](https://devnazir.github.io/kelas-io/) |  |
-| [Hitung Hari](https://devnazir.github.io/seeday/) |  |
+### 🚀 My Projects
+
+#### Programming Languages
+- [IP Address](https://github.com/devnazir/ip-address-language)
+- [GOSH](https://github.com/devnazir/gosh)
+
+#### APIs 
+
+- [LK21](https://github.com/devnazir/api-lk21)
+- [Filmapik](https://github.com/devnazir/api-filmapik)
+
+#### Websites
+
+- [Socia Media Dashboard](https://social-media-devnazir.vercel.app/dashboard)
+- [Chatbot Dashboard](https://chatbot-devnazir.vercel.app/dashboard)
+- [Chatbot Landing Page](https://chatbot-devnazir.vercel.app/)
+- [Febelvn](https://febelvn-devnazir.vercel.app/)
+- [Ngo Eyes Landing Page](https://ngo-devnazir.vercel.app/)
+- [Sage Landing Page](https://devnazir.github.io/sage/)
+- [Movie Trailer](https://devnazir.github.io/movietrailer/)
+- [Mainan Landing Page](https://devnazir.github.io/mainan/)
+- [Star Bimbel](https://www.starbimbel.com/)
+- [Kelas.io Landing Page](https://devnazir.github.io/kelas-io/)
+
+---
+
+# Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&layout=compact&theme=radical&hide=html,css,scss,astro)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&theme=radical&hide=issues&count_private=true)
+
+<img src="https://raw.githubusercontent.com/devnazir/devnazir/output/snake.svg" alt="Snake animation" />    
+
+# Let's Connect!
+
+📧 Email: [nazirbachrululum@gmail.com](mailto:nazirbachrululum@gmail.com)  
 
 
-
-
-
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&theme=react&layout=compact&hide=html,css,scss)
-![github stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&count_private=true&hide=issues&theme=dark)
 
