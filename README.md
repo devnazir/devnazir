@@ -9,8 +9,9 @@
 
 I am a passionate Software Engineer with over **3 years of experience** specializing in frontend technologies. I thrive on creating responsive web applications using **React, Next.js**, and **TypeScript**. My goal is to deliver intuitive user experiences while maintaining clean and maintainable code. Collaboration is at the heart of what I do, and I love working on impactful solutions that make a difference.
 
----
+<img src="https://raw.githubusercontent.com/devnazir/devnazir/output/snake.svg" alt="Snake animation" width="100%" />
 
+---
 # Tech Stack
 
 ### 🛠️ My Tools of Choice
@@ -19,7 +20,6 @@ I am a passionate Software Engineer with over **3 years of experience** speciali
 - **Frameworks:** React, Next.js, Node.js, Express.js
 - **Databases:** SQL, MySQL
 - **Other:** Go
-
 ---
 
 # Projects
@@ -53,10 +53,9 @@ I am a passionate Software Engineer with over **3 years of experience** speciali
 # Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&layout=compact&theme=radical&hide=html,css,scss,astro)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&theme=radical&hide=issues&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&theme=radical&hide=issues&count_private=true)
-
-<img src="https://raw.githubusercontent.com/devnazir/devnazir/output/snake.svg" alt="Snake animation" />    
+    
 
 # Let's Connect!
 
