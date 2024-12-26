@@ -24,8 +24,6 @@ I am a passionate Software Engineer with over **3 years of experience** speciali
 
 # Projects
 
-### 🚀 My Projects
-
 #### Programming Languages
 - [IP Address](https://github.com/devnazir/ip-address-language)
 - [GOSH](https://github.com/devnazir/gosh)
@@ -54,12 +52,6 @@ I am a passionate Software Engineer with over **3 years of experience** speciali
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnazir&layout=compact&theme=radical&hide=html,css,scss,astro)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnazir&show_icons=true&theme=radical&hide=issues&count_private=true&layout=compact)
-
-    
-
-# Let's Connect!
-
-📧 Email: [nazirbachrululum@gmail.com](mailto:nazirbachrululum@gmail.com)  
 
 
 
