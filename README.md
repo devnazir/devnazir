@@ -16,10 +16,10 @@ I am a passionate Software Engineer with over **3 years of experience** speciali
 
 ### 🛠️ My Tools of Choice
 
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript, TypeScript, Golang
 - **Frameworks:** React, Next.js, Node.js, Express.js
 - **Databases:** SQL, MySQL
-- **Other:** Go
+- **Other:** -
 ---
 
 # Projects
